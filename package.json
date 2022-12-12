@@ -32,7 +32,7 @@
     "bluzelle": "^1.0.15",
     "chalk": "^4.0.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "forever": "^3.0.0",
     "inversify": "^5.0.1",
